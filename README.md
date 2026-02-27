@@ -45,4 +45,10 @@ com foco em **React**, **TypeScript** e boas práticas que fazem diferença no m
 
 ---
 
+## 💬 Dev Quote do dia
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
 ## 📍 Rio de Janeiro, RJ — Brasil
