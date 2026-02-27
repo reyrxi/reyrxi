@@ -30,7 +30,11 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Atualizado automaticamente em 27/02/2026, 19:19 (horário de Brasília)
+> Atualizado automaticamente em 27/02/2026, 19:42 (horário de Brasília)
+
+### [csslab](https://github.com/reyrxi/csslab)
+CSSLab — Live HTML/CSS editor with Tailwind support. Write, preview and export in seconds.
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logoColor=white)
 
 ### [dio-trilha-java](https://github.com/reyrxi/dio-trilha-java)
 Sem descrição
