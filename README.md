@@ -27,12 +27,12 @@ com foco em **React**, **TypeScript** e boas práticas que fazem diferença no m
 
 ---
 
+<!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Instituto Paloni**](https://institutopaloni.com.br) | Site institucional para instituto de cursos técnicos profissionalizantes | React · TypeScript · Tailwind |
-| [**Escola Vida**](https://escolavidacear.com.br) | Site institucional para escola de Educação Infantil ao 9º ano | React · TypeScript · Tailwind |
+> Esta seção é atualizada automaticamente pelo GitHub Actions.
+
+<!-- PROJECTS:END -->
 
 ---
 
