@@ -40,7 +40,7 @@ com foco em **React**, **TypeScript** e boas práticas que fazem diferença no m
 
 <p align="left">
   <img height="150" src="https://streak-stats.demolab.com?user=reyrxi&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyrxi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyrxi&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
