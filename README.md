@@ -39,8 +39,8 @@ com foco em **React**, **TypeScript** e boas práticas que fazem diferença no m
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=reyxi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyxi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=reyrxi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyrxi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
