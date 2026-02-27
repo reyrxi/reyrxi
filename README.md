@@ -30,7 +30,23 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Esta seção é atualizada automaticamente pelo GitHub Actions.
+> Atualizado automaticamente em 27/02/2026, 19:19 (horário de Brasília)
+
+### [dio-trilha-java](https://github.com/reyrxi/dio-trilha-java)
+Sem descrição
+![Java](https://img.shields.io/badge/-Java-858585?style=flat-square&logoColor=white)
+
+### [game-cubos-academy](https://github.com/reyrxi/game-cubos-academy)
+Sem descrição
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white)
+
+### [hello-world](https://github.com/reyrxi/hello-world)
+Sem descrição
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white)
+
+### [discoverRocketseat](https://github.com/reyrxi/discoverRocketseat)
+Sem descrição
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logoColor=white)
 
 <!-- PROJECTS:END -->
 
