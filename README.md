@@ -3,8 +3,8 @@
 > Desenvolvedor Fullstack apaixonado por transformar ideias em produtos reais —
 > da arquitetura do código até a experiência que o usuário sente na tela.
 
-Atualmente construindo sites e sistemas para escolas e institutos de ensino no Rio de Janeiro,
-com foco em **React**, **TypeScript** e boas práticas que fazem diferença no mundo real.
+Do front ao back — construo interfaces, APIs, automações e bots.
+Gosto de resolver problemas reais com código limpo, seja num site institucional ou num script que poupa horas de trabalho manual.
 
 ---
 
