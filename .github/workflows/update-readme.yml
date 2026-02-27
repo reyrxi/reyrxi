@@ -1,0 +1,40 @@
+name: Atualizar README com repositórios
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda todo dia à meia-noite (UTC)
+  workflow_dispatch:      # Permite rodar manualmente também
+  push:
+    branches: [main]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Gerar seção de projetos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: reyrxi
+        run: node scripts/update-repos.js
+
+      - name: Commitar se houver mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: atualiza projetos automaticamente [skip ci]"
+          git push
