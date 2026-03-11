@@ -30,7 +30,11 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Atualizado automaticamente em 09/03/2026, 23:34 (horário de Brasília)
+> Atualizado automaticamente em 10/03/2026, 23:33 (horário de Brasília)
+
+### [escola-financeiro](https://github.com/reyrxi/escola-financeiro)
+Sem descrição
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white)
 
 ### [csslab](https://github.com/reyrxi/csslab)
 CSSLab — Live HTML/CSS editor with Tailwind support. Write, preview and export in seconds.
