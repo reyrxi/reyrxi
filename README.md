@@ -30,10 +30,10 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Atualizado automaticamente em 10/03/2026, 23:33 (horário de Brasília)
+> Atualizado automaticamente em 11/03/2026, 23:39 (horário de Brasília)
 
-### [escola-financeiro](https://github.com/reyrxi/escola-financeiro)
-Sem descrição
+### [dashboard-financeiro](https://github.com/reyrxi/dashboard-financeiro)
+Sistema de gestão financeira para escolas: receitas por turma, controle de gastos e lucratividade em tempo real
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white)
 
 ### [csslab](https://github.com/reyrxi/csslab)
