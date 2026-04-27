@@ -31,7 +31,15 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Atualizado automaticamente em 26/04/2026, 21:18 (horário de Brasília)
+> Atualizado automaticamente em 27/04/2026, 00:40 (horário de Brasília)
+
+### [contrato_app](https://github.com/reyrxi/contrato_app)
+Sem descrição
+
+
+### [gerador-contrato](https://github.com/reyrxi/gerador-contrato)
+Aplicativo desktop para preenchimento automático de contratos de matrícula em Word, desenvolvido em Python com interface gráfica.
+
 
 ### [diploma-gerador](https://github.com/reyrxi/diploma-gerador)
 Aplicativo desktop para preenchimento automático de modelos Word de Diploma e Histórico Escolar, desenvolvido em Python com interface gráfica.
