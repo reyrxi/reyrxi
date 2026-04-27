@@ -31,7 +31,11 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Atualizado automaticamente em 26/04/2026, 00:36 (horário de Brasília)
+> Atualizado automaticamente em 26/04/2026, 21:18 (horário de Brasília)
+
+### [diploma-gerador](https://github.com/reyrxi/diploma-gerador)
+Aplicativo desktop para preenchimento automático de modelos Word de Diploma e Histórico Escolar, desenvolvido em Python com interface gráfica.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white)
 
 ### [csslab](https://github.com/reyrxi/csslab)
 CSSLab — Live HTML/CSS editor with Tailwind support. Write, preview and export in seconds.
