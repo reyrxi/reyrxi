@@ -31,11 +31,11 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Atualizado automaticamente em 30/04/2026, 00:44 (horário de Brasília)
+> Atualizado automaticamente em 01/05/2026, 00:56 (horário de Brasília)
 
 ### [contrato_app](https://github.com/reyrxi/contrato_app)
 Aplicativo desktop para preenchimento automático de contratos de matrícula em Word, desenvolvido em Python com interface gráfica.
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) ![Stars](https://img.shields.io/badge/⭐_1-FFD700?style=flat-square)
 
 ### [diploma-gerador](https://github.com/reyrxi/diploma-gerador)
 Aplicativo desktop para preenchimento automático de modelos Word de Diploma e Histórico Escolar, desenvolvido em Python com interface gráfica.
