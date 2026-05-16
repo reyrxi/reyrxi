@@ -31,19 +31,19 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Atualizado automaticamente em 15/05/2026, 00:59 (horário de Brasília)
+> Atualizado automaticamente em 16/05/2026, 00:40 (horário de Brasília)
 
-### [contrato_app](https://github.com/reyrxi/contrato_app)
-Aplicativo desktop para preenchimento automático de contratos de matrícula em Word, desenvolvido em Python com interface gráfica.
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) ![Stars](https://img.shields.io/badge/⭐_1-FFD700?style=flat-square)
+### [csslab](https://github.com/reyrxi/csslab)
+CSSLab — Live HTML/CSS editor with Tailwind support. Write, preview and export in seconds.
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logoColor=white)
 
 ### [diploma-gerador](https://github.com/reyrxi/diploma-gerador)
 Aplicativo desktop para preenchimento automático de modelos Word de Diploma e Histórico Escolar, desenvolvido em Python com interface gráfica.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white)
 
-### [csslab](https://github.com/reyrxi/csslab)
-CSSLab — Live HTML/CSS editor with Tailwind support. Write, preview and export in seconds.
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logoColor=white)
+### [contrato_app](https://github.com/reyrxi/contrato_app)
+Aplicativo desktop para preenchimento automático de contratos de matrícula em Word, desenvolvido em Python com interface gráfica.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) ![Stars](https://img.shields.io/badge/⭐_1-FFD700?style=flat-square)
 
 ### [dio-trilha-java](https://github.com/reyrxi/dio-trilha-java)
 Sem descrição
