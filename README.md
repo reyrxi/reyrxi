@@ -31,7 +31,11 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Atualizado automaticamente em 27/08/2026, 05:39 (horário de Brasília)
+> Atualizado automaticamente em 28/08/2026, 07:51 (horário de Brasília)
+
+### [portfolio-alvora](https://github.com/reyrxi/portfolio-alvora)
+Sem descrição
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logoColor=white)
 
 ### [csslab](https://github.com/reyrxi/csslab)
 CSSLab — Live HTML/CSS editor with Tailwind support. Write, preview and export in seconds.
