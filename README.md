@@ -31,7 +31,11 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Atualizado automaticamente em 06/11/2026, 02:58 (horário de Brasília)
+> Atualizado automaticamente em 07/11/2026, 02:29 (horário de Brasília)
+
+### [re-tricot-site](https://github.com/reyrxi/re-tricot-site)
+Landing page da Re Tricot (@retricotrj)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logoColor=white)
 
 ### [csslab](https://github.com/reyrxi/csslab)
 CSSLab — Live HTML/CSS editor with Tailwind support. Write, preview and export in seconds.
