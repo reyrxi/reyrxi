@@ -31,7 +31,7 @@ Gosto de resolver problemas reais com código limpo, seja num site institucional
 <!-- PROJECTS:START -->
 ## 🚀 Projetos em destaque
 
-> Atualizado automaticamente em 12/11/2026, 03:44 (horário de Brasília)
+> Atualizado automaticamente em 13/11/2026, 03:00 (horário de Brasília)
 
 ### [re-tricot-site](https://github.com/reyrxi/re-tricot-site)
 Landing page da Re Tricot (@retricotrj)
